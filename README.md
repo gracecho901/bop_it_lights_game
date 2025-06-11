@@ -13,3 +13,7 @@ and that comes with a timer speed increase. There is a positive sound played aft
 | Slide Switch | Input  | left / right   | `CircuitPlayground.slideSwitch()` | Respond to blue by toggling<br>Must flip from previous position (L ⇄ R) |
 | Neopixels    | Output | RGB (0–255)    | `setPixelColor()`                 | Display target color                                     |
 | Speaker      | Output | Sound tones    | `playTone()`                      | Feedback (right or wrong)                                |
+
+
+Video demonstration of game:
+https://youtu.be/pXiMkCwvsi4
